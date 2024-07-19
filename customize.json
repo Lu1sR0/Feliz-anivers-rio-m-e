@@ -1,0 +1,23 @@
+{
+  "greeting": "Olá",
+  "name": "mãe",
+  "greetingText": "hoje é um dia muito especial para você",
+  "wishText": "Mãe você é uma pessoa incrivel e que tenho muito orgulho e ainda tem muitos aniversários pela frente ;)",
+  "imagePath": "img/mae.jpeg",
+  "text1": " Hoje é o seu aniversário 🥳",
+  "textInChatBox": "Feliz aniversário!! Muitas coisas boas...",
+  "sendButtonLabel": "enviar",
+  "text2": "Eu poderia fazer isso",
+  "text3": "Mas parei",
+  "text4": "Você é uma pessoa a qual eu amo muito",
+  "text4Adjective": "Especial",
+  "text5Entry": "Porque,",
+  "text5Content": "Você é muito especial",
+  "smiley": ":)",
+  "bigTextPart1": "Então",
+  "bigTextPart2": "...",
+  "wishHeading": "Feliz aniversário",
+  "outroText": "Agora você pode me contar oque achou",
+  "replayText": "ou clicar e começar tudo denovo",
+  "outroSmiley": ":)"
+}
